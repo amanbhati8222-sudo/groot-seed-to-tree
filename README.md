@@ -2,6 +2,36 @@
 
 A premium, Groot-inspired event landing page concept for the GeeksForGeeks Student Chapter, Bennett University.
 
+Project
+
+GROOT — From Seed to Tree
+
+Concept
+
+A Marvel-inspired event experience representing a student's growth journey:
+
+Seed → Sprout → Sapling → Tree
+
+Tech Stack - 
+
+HTML
+CSS
+JavaScript
+GitHub Pages
+
+Features - 
+
+Cinematic Groot hero
+Responsive design
+Growth Mode interaction
+Scroll animations
+Event timeline
+Registration modal
+Form validation
+Mobile responsive layout
+
+Deployment- https://amanbhati8222-sudo.github.io/groot-seed-to-tree/
+
 ## Run locally
 Open `index.html` in a browser, or use VS Code Live Server.
 
